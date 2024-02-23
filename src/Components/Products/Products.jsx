@@ -17,6 +17,7 @@ class Products extends Component {
                   </a>
                   <div className="product-price">
                     <div>₹{product.price}</div>
+                  
                     <button className="button primary">Add to Card</button>
                 </div>
                 </div>
