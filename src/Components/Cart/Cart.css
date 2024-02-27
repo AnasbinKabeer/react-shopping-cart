@@ -51,3 +51,24 @@
 .total > button{    
     flex: 1;
 }
+
+form{
+    width: 100%;
+}
+
+.form-Container{
+    width: 100%;
+    list-style-type: none;
+}
+
+.form-Container li{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin-top: 10px  ;
+}
+
+input{
+    padding: 1rem;
+    border: 1px solid black;
+}
